@@ -397,8 +397,7 @@
 
         <div class="pt-5">
             <div class="d-flex justify-content-center align-items-center">
-                <img src="images/dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
-
+                <img src="./images/Dunsire-logo.png" class="img-fluid regoimg" alt="Dunsire Developments-logo">
             </div>
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                 <span class="mx-1">About Dunsire Developments </span>
@@ -502,7 +501,7 @@
         </div>
     </section>
     <div class="mt-5 pt-3">
-        <img loading="lazy" src="images/line.png" alt="Line image for character" class="img-fluid foot-up-img" />
+        <img loading="lazy" src="./images/line.png" alt="Line image for character" class="img-fluid foot-up-img" />
     </div>
     <footer class="footerr  py-5 mb-4">
         <div class="container ">
@@ -510,7 +509,7 @@
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" ">
-                        <img src="images/Mira-Logo-black.png" class="navbar-brand pb-1" alt="">
+                        <img src="./images/mira-Logo-black.png" class="navbar-brand pb-1" alt="">
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
@@ -535,7 +534,7 @@
                                 Builder : Dunsire Developments
                             </p>
                             <p class="mybot ">
-                                Location : 1 Quaker Road, Barrie, ON
+                                Location :700 Mapleview Drive East, Barrie, ON
                             </p>
 
                             <p class="mybot ">
@@ -548,10 +547,7 @@
                 </div>
 
                 <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center d-flex">
-
-                    <img src="images/dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
-
-
+                    <img src="./images/dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
                 </div>
             </div>
 
