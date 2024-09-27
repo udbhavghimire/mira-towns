@@ -504,12 +504,12 @@
         <img loading="lazy" src="./images/line.png" alt="Line image for character" class="img-fluid foot-up-img" />
     </div>
     <footer class="footerr  py-5 mb-4">
-        <div class="container ">
+        <div class="container">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" ">
-                        <img src="./images/mira-Logo-black.png" class="navbar-brand pb-1" alt="">
+                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="">
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
@@ -547,7 +547,7 @@
                 </div>
 
                 <div class="col-md-2 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center d-flex">
-                    <img src="./images/dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
+                    <img src="./images/Dunsire-logo.png" class="img-fluid regoimg " alt="Dunsire Developments-logo">
                 </div>
             </div>
 
