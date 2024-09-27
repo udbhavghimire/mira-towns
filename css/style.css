@@ -96,7 +96,7 @@
 #hero .hero-container {
     position: relative;
     display: flex;
-    height: calc(80vh - 80px);
+    height: calc(95vh - 80px);
     justify-content: center;
     flex-direction: column;
 }
@@ -341,7 +341,7 @@
     }
 
     .bgggggggg {
-        background-color: #D1897F !important;
+        background-color: #004C3D !important;
         color: #fff !important;
     }
 
@@ -354,6 +354,24 @@
     .thankyou {
         font-size: 5rem;
         font-weight: 700;
+    }
+
+    .main-titlee {
+        font-size: 2.5rem;
+        font-weight: 900;
+        color: #ffffff;
+    }
+
+    .img-text {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        color: white;
+        z-index: 22;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        text-shadow: 1px 1px #000000;
+        font-size: 1rem;
     }
 
 }

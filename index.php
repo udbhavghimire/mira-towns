@@ -156,7 +156,7 @@
                 </p>
 
                 <p class="mybot pb-md-0 pb-0 ">
-                    Address: 700 Mapleview Drive East, Barrie, ON
+                    Address: 700 Mapleview Drive East, Barrie
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
                     No of Homes: 800+ Homes
@@ -181,7 +181,7 @@
                     class="brand-color text-decoration-none"> Mira Towns in Barrie</a> </span>
             </h2>
             <div>
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 ">
+                <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 justify-content-center gy-md-4 gy-3 gx-3">
                     <div class="col">
                         <div href="#" class="afte">
                             <img src="images/sitemap.jpg" alt="Master planned community"
@@ -235,7 +235,7 @@
         </div>
     </section>
 
-    <div class="pt-md-5 pt-2"></div>
+    <div class="pt-5"></div>
     <section class="py-md-5 py-4">
         <div class="container pt-md-5 pt-4">
             <h2 class="fw-bold fs-1 mb-4 text-center justify-content-center brand-color">
