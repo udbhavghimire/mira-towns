@@ -71,7 +71,7 @@
             <div class=" container">
                 <a href="/" class="navbar-brand">
 
-                    <img src="images/Mira-Logo-02.png" class="navbar-brand " alt="">
+                    <img src="images/Mira-Logo-02.png" class="navbar-brand " alt="Mira Towns Barrie Logo">
                 </a>
                 <!-- <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now
@@ -276,7 +276,7 @@
                     Drive East, Barrie, ON</span>
                 <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
-                        <img src="./images/sitemap.jpg" class="img-fluid" alt="">
+                        <img src="./images/sitemap.jpg" class="img-fluid" alt="Mira Townhouse in Barrie Community">
                     </div>
                     <div class="bg-white p-1   rounded-mine d-flex justify-content-center align-items-center col">
 
@@ -510,7 +510,7 @@
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" ">
-                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="">
+                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="Mira Townhouse Logo">
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
