@@ -22,8 +22,8 @@
     <link rel="stylesheet" href="font/verah.ttf">
 
 
-    <title>Mira Towns Barrie - Register Today</title>
-    <meta name="title" content="Mira Towns Barrie - Register Today">
+    <title>Mira Towns Barrie | Dunsire Developments - Register Today</title>
+    <meta name="title" content="Mira Towns Barrie | Dunsire Developments - Register Today">
     <meta name="description"
         content="Mira Towns by Dunsire Developments is a new townhome development in Barrie, offering waterfront living with shops, dining, trails, and parks in a vibrant master-planned community.">
     <meta name="keywords"
@@ -73,9 +73,9 @@
 
                     <img src="images/Mira-Logo-02.png" class="navbar-brand " alt="">
                 </a>
-                <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
+                <!-- <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now
-                </a>
+                </a> -->
                 <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -143,10 +143,11 @@
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2
                 class="fs-1 brand-color pt-md-5 pb-3  fw-bold ps-3 ps-md-0 d-flex justify-content-center  align-items-center text-center">
-                About Mira Towns in Barrie</h2>
+                About Mira Townns in Barrie</h2>
             <p class=" pb-3 px-3 textt ">
                 <span> <a href="https://condomonk.ca/barrie/mira-townhomes-barrie" target="_blank"
-                        class="fw-bold text-decoration-none text-dark">Mira Towns by Dunsire Developments </a></span>
+                        class="fw-bold text-decoration-none text-dark">Mira Townhouse by Dunsire Developments
+                    </a></span>
                 is an exciting new pre-construction development by Dunsire Homes, located in the charming community of
                 Waterdown. These townhomes offer modern designs, sustainable living solutions, and are perfect for
                 families or individuals looking to settle in an upcoming, vibrant neighborhood.
@@ -178,7 +179,7 @@
             <h2
                 class="fw-bold fs-1 pb-2 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline brand-color">
                 Reasons to buy <a href="https://homebaba.ca/barrie/mira-townhomes-barrie" target="_blank"
-                    class="brand-color text-decoration-none"> Mira Towns in Barrie</a> </span>
+                    class="brand-color text-decoration-none"> Mira Townhouse in Barrie</a> </span>
             </h2>
             <div>
                 <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 justify-content-center gy-md-4 gy-3 gx-3">
@@ -239,11 +240,11 @@
     <section class="py-md-5 py-4">
         <div class="container pt-md-5 pt-4">
             <h2 class="fw-bold fs-1 mb-4 text-center justify-content-center brand-color">
-                Checkout Videos to see what people are saying about Barrie:
+                Checkout Videos What People Say About Barrie
             </h2>
-            <div class="row row-cols-md-2 row-cols-1 g-4">
+            <div class="row row-cols-2 g-4">
                 <div class="col">
-                    <div class="ratio ratio-16x9">
+                    <div class="video-container">
                         <iframe src="https://www.youtube.com/embed/xYogOCtoU9Q?si=OPdxy4HaKIFl75bW"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -251,7 +252,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="ratio ratio-16x9">
+                    <div class="video-container">
                         <iframe src="https://www.youtube.com/embed/CgdGANEz4Xw?si=OFeQ-otJ4Y_p-Osp"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -304,7 +305,7 @@
     <section class="mt-md-5 py-md-5" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color" data-aos="fade-up">
-                <span class="mx-1 pb-5"> Mira Towns Barrie FAQ</span> </span>
+                <span class="mx-1 pb-5"> Mira Townshouse FAQ</span> </span>
             </h2>
             <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
@@ -404,7 +405,7 @@
             </h2>
 
             <span
-                class=" pt-3 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
+                class=" pt-3 small-text  d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
                 Dunsire is a trusted homebuilder known for creating high-quality, environmentally conscious communities
                 across Ontario. With a focus on sustainable living and exceptional craftsmanship, Dunsire has built
                 strong partnerships with homeowners, landowners, and local communities by delivering homes that go
@@ -436,13 +437,13 @@
                         <img src="images/empire-logo.png " class="img-fluid regoimg " alt="Empire Communities Logo ">
                     </div> -->
                     <h6 class="text-center fs-1 fw-bold pt-3 register "> Register today</h6>
-                    <div class="registertext px-4 d-flex justify-content-center align-items-center text-center ">
+                    <div class="registertext px-4 d-flex justify-content-center align-items-center text-center mb-0">
                         <p>Register today and get the first update on Mira Towns Barrie coming up in Barrie
                         </p>
                     </div>
 
                 </div>
-                <div class="row row-cols-1 row-cols-md-3 mx-0 g-5 pb-md-5 ">
+                <div class="row row-cols-1 row-cols-md-3 mx-4 mx-md-0 pb-md-5 ">
                     <div class="col-md-3 "></div>
                     <div class="col-md-6 px-md-5 ">
 
@@ -534,7 +535,7 @@
                                 Builder : Dunsire Developments
                             </p>
                             <p class="mybot ">
-                                Location :700 Mapleview Drive East, Barrie, ON
+                                Location :700 Mapleview Drive East, Barrie
                             </p>
 
                             <p class="mybot ">
