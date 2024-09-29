@@ -27,7 +27,7 @@
     <meta name="description"
         content="Mira Towns by Dunsire Developments is a new townhome development in Barrie, offering waterfront living with shops, dining, trails, and parks in a vibrant master-planned community.">
     <meta name="keywords"
-        content="Mira Towns Barrie, Mira Towns Barrie, Townhouse in Barrie, Dunsire Developments, Mira Town house barrie">
+        content="Mira Towns Barrie, Mira Towns Barrie, Townhomes in Barrie, Dunsire Developments, Mira Town house barrie">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -143,10 +143,10 @@
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2
                 class="fs-1 brand-color pt-md-5 pb-3  fw-bold ps-3 ps-md-0 d-flex justify-content-center  align-items-center text-center">
-                About Mira Townns in Barrie</h2>
+                About Mira Towns in Barrie</h2>
             <p class=" pb-3 px-3 textt ">
                 <span> <a href="https://condomonk.ca/barrie/mira-townhomes-barrie" target="_blank"
-                        class="fw-bold text-decoration-none text-dark">Mira Townhouse by Dunsire Developments
+                        class="fw-bold text-decoration-none text-dark">Mira Townhomes by Dunsire Developments
                     </a></span>
                 is an exciting new pre-construction development by Dunsire Homes, located in the charming community of
                 Waterdown. These townhomes offer modern designs, sustainable living solutions, and are perfect for
@@ -179,7 +179,7 @@
             <h2
                 class="fw-bold fs-1 pb-2 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline brand-color">
                 Reasons to buy <a href="https://homebaba.ca/barrie/mira-townhomes-barrie" target="_blank"
-                    class="brand-color text-decoration-none"> Mira Townhouse in Barrie</a> </span>
+                    class="brand-color text-decoration-none"> Mira Townhomes in Barrie</a> </span>
             </h2>
             <div>
                 <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 justify-content-center gy-md-4 gy-3 gx-3">
@@ -276,7 +276,7 @@
                     Drive East, Barrie, ON</span>
                 <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
-                        <img src="./images/sitemap.jpg" class="img-fluid" alt="Mira Townhouse in Barrie Community">
+                        <img src="./images/sitemap.jpg" class="img-fluid" alt="Mira Townhomes in Barrie Community">
                     </div>
                     <div class="bg-white p-1   rounded-mine d-flex justify-content-center align-items-center col">
 
@@ -290,7 +290,7 @@
                 </div>
                 <div class="d-flex justify-content-center align-items-center pt-md-3 pt-2 text-center">
                     <span class="d-flex justify-content-center align-items-center">Disclaimer: The exact location
-                        mightvary from the google map location shown above.</span>
+                        might vary from the google map location shown above.</span>
                 </div>
 
             </div>
@@ -510,7 +510,7 @@
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" ">
-                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="Mira Townhouse Logo">
+                        <img src="./images/mira-logo-black.png" class="navbar-brand pb-1" alt="Mira Townhomes Logo">
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
@@ -539,7 +539,7 @@
                             </p>
 
                             <p class="mybot ">
-                                House Type : Townhouse
+                                House Type : Townhomes
                             </p>
 
                         </div>
