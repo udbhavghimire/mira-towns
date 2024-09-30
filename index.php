@@ -305,7 +305,7 @@
     <section class="mt-md-5 py-md-5" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color" data-aos="fade-up">
-                <span class="mx-1 pb-5"> Mira Townshouse FAQ</span> </span>
+                <span class="mx-1 pb-5"> Mira Townhomes FAQ</span> </span>
             </h2>
             <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
