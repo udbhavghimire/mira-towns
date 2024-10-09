@@ -25,7 +25,7 @@
     <title>Mira Towns Barrie | Dunsire Developments - Register Today</title>
     <meta name="title" content="Mira Towns Barrie | Dunsire Developments - Register Today">
     <meta name="description"
-        content="Mira Towns by Dunsire Developments is a new townhome development in Barrie, offering waterfront living with shops, dining, trails, and parks in a vibrant master-planned community.">
+        content="Mira Towns by Dunsire Developments is a new townhome community in Barrie, offering waterfront living with access to shops, dining, trails, and parks. Experience vibrant community living at Mira Townhomes in Barrie.">
     <meta name="keywords"
         content="Mira Towns Barrie, Mira Towns Barrie, Townhomes in Barrie, Dunsire Developments, Mira Town house barrie">
     <meta name="robots" content="index, follow">
