@@ -10,9 +10,10 @@ require './PHPMailer/src/PHPMailer.php';
 require './PHPMailer/src/SMTP.php';
 
 // Function to send request to Follow Up Boss API
-function sendToFollowUpBoss($data) {
+function sendToFollowUpBoss($data)
+{
     $url = 'https://api.followupboss.com/v1/events';
-    
+
     // Prepare the Follow Up Boss payload
     $payload = array(
         'person' => array(
@@ -25,7 +26,7 @@ function sendToFollowUpBoss($data) {
             'phones' => array(
                 array('value' => $data['phone'])
             ),
-            'tags' => array('Mira Towns Barrie')
+            'tags' => array('Mira Towns', 'Barrie')
         ),
         'source' => 'miratowns.ca',
         'system' => 'Custom Website',
@@ -35,7 +36,7 @@ function sendToFollowUpBoss($data) {
 
     // Initialize cURL
     $ch = curl_init($url);
-    
+
     // Set cURL options
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_POST, true);
@@ -48,10 +49,10 @@ function sendToFollowUpBoss($data) {
     // Execute cURL request
     $response = curl_exec($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    
+
     // Close cURL connection
     curl_close($ch);
-    
+
     return $httpCode >= 200 && $httpCode < 300;
 }
 
@@ -89,7 +90,7 @@ $mail->AltBody = $_POST['message'] . $_POST['email'] . $_POST['name'] . $_POST['
 // Attempt to send email and Follow Up Boss notification
 try {
     $emailSent = $mail->send();
-    
+
     // Prepare data for Follow Up Boss
     $fubData = array(
         'name' => $_POST['name'],
@@ -97,9 +98,9 @@ try {
         'phone' => $_POST['phone'],
         'message' => $_POST['message']
     );
-    
+
     $fubSent = sendToFollowUpBoss($fubData);
-    
+
     if ($emailSent && $fubSent) {
         $_SESSION["success"] = "Application submitted successfully.";
         header("Location: ./thankyou/");
@@ -109,7 +110,7 @@ try {
         header("Location: index.php");
         exit();
     }
-    
+
 } catch (Exception $e) {
     $_SESSION["error"] = "Application not submitted: " . $mail->ErrorInfo;
     header("Location: index.php");
