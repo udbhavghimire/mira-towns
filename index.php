@@ -494,7 +494,7 @@
                         appearance. Please consult with the builder for the most up-to-date information on the homes and
                         specifications </span>
                     <div class="list pt-2 d-md-block d-none">
-                        <p class=""> <a href="https://hombaba.ca/barrie" target="_blank"
+                        <p class=""> <a href="https://homebaba.ca/barrie" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
                                     Preconstrcution homes in Barrie</strong></a>
                         </p>
