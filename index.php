@@ -494,10 +494,9 @@
                         appearance. Please consult with the builder for the most up-to-date information on the homes and
                         specifications </span>
                     <div class="list pt-2 d-md-block d-none">
-                        <p class=""> <a href="https://condomonk.ca/barrie" target="_blank"
+                        <p class=""> <a href="https://hombaba.ca/barrie" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
-                                    Check out all Barrie pre construction homes projects on
-                                    Condomonk.</strong></a>
+                                    Preconstrcution homes in Barrie</strong></a>
                         </p>
 
                     </div>
@@ -528,10 +527,9 @@
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
-                <p class=""> <a href="https://condomonk.ca/barrie" target="_blank"
+                <p class=""> <a href="https://homebaba.ca/barrie" target="_blank"
                         class="text-dark text-decoration-none"><strong>
-                            Check out all Barrie pre construction homes projects on
-                            Condomonk.</strong></a>
+                            Preconstruction homes in Barrie</strong></a>
                 </p>
 
             </div>
