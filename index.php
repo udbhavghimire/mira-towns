@@ -496,7 +496,7 @@
                     <div class="list pt-2 d-md-block d-none">
                         <p class=""> <a href="https://homebaba.ca/barrie" target="_blank"
                                 class="text-dark text-decoration-none"><strong>
-                                    Preconstrcution homes in Barrie</strong></a>
+                                    Pre construction homes in Barrie</strong></a>
                         </p>
 
                     </div>
@@ -529,7 +529,7 @@
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
                 <p class=""> <a href="https://homebaba.ca/barrie" target="_blank"
                         class="text-dark text-decoration-none"><strong>
-                            Preconstruction homes in Barrie</strong></a>
+                            Pre construction homes in Barrie</strong></a>
                 </p>
 
             </div>
