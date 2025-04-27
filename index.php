@@ -56,7 +56,8 @@
             <div class=" container">
                 <a href="/" class="navbar-brand">
 
-                    <img src="images/Mira-Logo-02.png" class="navbar-brand " alt="Mira Towns Barrie Logo">
+                    <img src="images/Mira-Logo-02.png" class="navbar-brand " alt="Mira Towns Barrie Logo"
+                        loading="lazy">
                 </a>
                 <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -95,20 +96,21 @@
     </div>
 
     <section id="hero">
+        <img src="./images/mira-family.jpg" alt="Mira Family" class="hero-bg" />
         <div class="container">
             <div class="hero-container text-center">
                 <div class="d-flex flex-column justify-content-center align-items-center">
-                    <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
-                        data-aos-delay="50">Mira Towns - Barrie</span>
+                    <h1 class="main-titlee pb-0 mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
+                        data-aos-delay="50">
+                        Mira Towns - Barrie
                     </h1>
-                    <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
-                        data-aos-duration="2000" data-aos-delay="50">Coming Soon! <br> Townhomes starting from
-                        the $500’s
+                    <p class="headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
+                        data-aos-duration="2000" data-aos-delay="50">
+                        Coming Soon! <br> Townhomes starting from the $500's
                     </p>
-
-                    <a href="#Contact"
-                        class="btn brand-bg rounded-pill px-4 py-2 fw-bold text-white transition-all">Register Now
-                        for VIP Access</a>
+                    <a href="#Contact" class="btn brand-bg rounded-pill px-4 py-2 fw-bold text-white transition-all">
+                        Register Now for VIP Access
+                    </a>
                 </div>
             </div>
         </div>
@@ -138,7 +140,7 @@
                     No of Homes: 800+ Homes
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
-                    Pricing : Starting from the $500’s
+                    Pricing : Starting from the $500's
                 </p>
 
             </div>
@@ -160,7 +162,7 @@
                 <div class="row row-cols-2 row-cols-md-2 row-cols-lg-3 justify-content-center gy-md-4 gy-3 gx-3">
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/sitemap.jpg" alt="Master planned community"
+                            <img src="images/sitemap.jpg" loading="lazy" alt="Master planned community"
                                 class="img-fluid rounded-mine imghei">
                             <div class="img-text">
                                 <p class="mb-0">Master planned community</p>
@@ -169,7 +171,7 @@
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="images/go-train.jpg" alt="Steps to the GO train station"
+                            <img src="images/go-train.jpg" loading="lazy" alt="Steps to the GO train station"
                                 class="img-fluid rounded-mine imghei">
                             <div class="img-text">
                                 <p class="mb-0">Steps to the GO train station</p>
@@ -178,7 +180,7 @@
                     </div>
                     <div class="col">
                         <div class="afte">
-                            <img src="images/downtown-barrie.webp" alt="Minutes to downtown Barrie"
+                            <img src="images/downtown-barrie.webp" loading="lazy" alt="Minutes to downtown Barrie"
                                 class="img-fluid rounded-mine imghei">
                             <div class="img-text">
                                 <p class="mb-0">Minutes to downtown Barrie</p>
@@ -187,7 +189,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/highway-400.jpeg" alt="Minutes to Highway 400"
+                            <img src="images/highway-400.jpeg" loading="lazy" alt="Minutes to Highway 400"
                                 class="img-fluid rounded-mine imghei">
                             <div class="img-text">
                                 <p class="mb-0">Minutes to Highway 400</p>
@@ -196,7 +198,7 @@
                     </div>
                     <div class="col">
                         <div href="#" class="afte">
-                            <img src="images/lake-simcoe.jpg" alt="Easy access to Lake Simcoe"
+                            <img src="images/lake-simcoe.jpg" loading="lazy" alt="Easy access to Lake Simcoe"
                                 class="img-fluid rounded-mine imghei">
                             <div class="img-text">
                                 <p class="mb-0">Easy access to Lake Simcoe
@@ -220,18 +222,18 @@
             <div class="row row-cols-2 g-4">
                 <div class="col">
                     <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/xYogOCtoU9Q?si=OPdxy4HaKIFl75bW"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube-nocookie.com/embed/xYogOCtoU9Q" title="YouTube video player"
+                            loading="lazy" class="lazy"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col">
                     <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/CgdGANEz4Xw?si=OFeQ-otJ4Y_p-Osp"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube-nocookie.com/embed/CgdGANEz4Xw" title="YouTube video player"
+                            loading="lazy" class="lazy"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            referrerpolicy="strict-origin-when-cross-origin" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -323,7 +325,7 @@
                     </h3>
                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Mira Towns starting from the $500’s.
+                        <div class="accordion-body">Mira Towns starting from the $500's.
                         </div>
                     </div>
                 </div>

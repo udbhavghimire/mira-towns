@@ -85,12 +85,24 @@
 #hero {
     width: 100%;
     height: 90vh;
-    background: linear-gradient(rgba(74, 73, 73, 0.5), rgba(40, 37, 37, 0.2)), url("../images/mira-family.jpg");
-    background-size: cover;
-    background-position: center;
     position: relative;
     padding-top: 20px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    filter: brightness(0.6);
+    /* simulates your dark gradient effect */
 }
 
 #hero .hero-container {
@@ -100,6 +112,7 @@
     justify-content: center;
     flex-direction: column;
 }
+
 
 #myVideo {
     position: relative;
