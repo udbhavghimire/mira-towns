@@ -142,11 +142,22 @@
                 <p class="mybot pb-md-0 pb-0 ">
                     Pricing : Starting from the $500's
                 </p>
+                <div class="text-start mt-4">
+                    <a href="#Contact" class="btn btn-outline-dark rounded-pill px-4 py-2">Request for more details <svg
+                            xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
+                            className="lucide lucide-arrow-up-right-icon lucide-arrow-up-right">
+                            <path d="M7 7h10v10"></path>
+                            <path d="M7 17 17 7"></path>
+                        </svg></a>
 
+                </div>
             </div>
+
 
             </p>
         </div>
+
     </section>
 
 
@@ -269,8 +280,19 @@
                     <span class="d-flex justify-content-center align-items-center">Disclaimer: The exact location
                         might vary from the google map location shown above.</span>
                 </div>
+                <div class="text-center mt-4">
+                    <a href="#Contact" class="btn btn-outline-dark rounded-pill px-4 py-2">Check floor plan details <svg
+                            xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
+                            className="lucide lucide-arrow-up-right-icon lucide-arrow-up-right">
+                            <path d="M7 7h10v10"></path>
+                            <path d="M7 17 17 7"></path>
+                        </svg></a>
+                </div>
 
             </div>
+
+        </div>
 
         </div>
     </section>
