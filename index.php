@@ -75,7 +75,7 @@
                                 </a>
                             </li>
                             <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#about">About</a>
+                                <a class="nav-link scrollto" href="./dunsire-developments">About</a>
                             </li>
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#location">Location</a>
