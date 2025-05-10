@@ -56,6 +56,46 @@ function sendToFollowUpBoss($data)
     return $httpCode >= 200 && $httpCode < 300;
 }
 
+// Function to send request to Homebaba API
+function sendToHomebabaAPI($data)
+{
+    $baseUrl = 'https://admin.homebaba.ca';
+    $url = $baseUrl . '/api/contact-form-submit/';
+
+    // Set the full URL to a static value
+    $fullUrl = 'https://miratowns.ca';
+
+    // Prepare form data
+    $formData = array(
+        'name' => $data['name'],
+        'email' => $data['email'],
+        'phone' => $data['phone'],
+        'message' => $data['message'],
+        'realtor' => $data['realtor'],
+        'full_url' => $fullUrl
+    );
+
+    // Initialize cURL
+    $ch = curl_init($url);
+
+    // Set cURL options
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $formData);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+        'Accept: */*'
+    ));
+
+    // Execute cURL request
+    $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    // Close cURL connection
+    curl_close($ch);
+
+    return $httpCode >= 200 && $httpCode < 300;
+}
+
 // Initialize PHPMailer
 $mail = new PHPMailer;
 
@@ -68,7 +108,7 @@ $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
 $mail->setFrom('info@miratowns.ca', $_POST['name']);
-$mail->addAddress('contact@homebaba.ca');
+$mail->addAddress('ghimireudbhav@gmail.com');
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
@@ -91,17 +131,19 @@ $mail->AltBody = $_POST['message'] . $_POST['email'] . $_POST['name'] . $_POST['
 try {
     $emailSent = $mail->send();
 
-    // Prepare data for Follow Up Boss
+    // Prepare data for Follow Up Boss and Homebaba API
     $fubData = array(
         'name' => $_POST['name'],
         'email' => $_POST['email'],
         'phone' => $_POST['phone'],
-        'message' => $_POST['message']
+        'message' => $_POST['message'],
+        'realtor' => $_POST['realtor']
     );
 
     $fubSent = sendToFollowUpBoss($fubData);
+    $homebabaSent = sendToHomebabaAPI($fubData);
 
-    if ($emailSent && $fubSent) {
+    if ($emailSent && $fubSent && $homebabaSent) {
         $_SESSION["success"] = "Application submitted successfully.";
         header("Location: ./thankyou/");
         exit();
