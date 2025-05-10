@@ -108,7 +108,7 @@ $mail->SMTPSecure = 'tls';
 $mail->Port = 587;
 
 $mail->setFrom('info@miratowns.ca', $_POST['name']);
-$mail->addAddress('ghimireudbhav@gmail.com');
+$mail->addAddress('contact@homebaba.ca');
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
