@@ -49,6 +49,8 @@
             "url": "https://miratowns.ca/"
         }
     </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9719221303597935"
+        crossorigin="anonymous"></script>
 
 <body>
     <div class="sticky-top topp " id="header">
